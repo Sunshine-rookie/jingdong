@@ -224,7 +224,6 @@ s, i, em {
 .logo {
     width: 362px;
     height: 60px;
-    /*background-color: red;*/
     float: left;
     padding: 20px 0;
 }
@@ -238,9 +237,6 @@ s, i, em {
 }
 
 .search {
-    /*width: 538px;
-    height: 36px;
-    background-color: blue;*/
     float: left;
     margin-top: 25px;
 }
@@ -280,7 +276,6 @@ s, i, em {
 .car .icon1 {
     width: 16px;
     height: 13px;
-    /*background-color: red;*/
     position: absolute;
     top: 10px;
     left: 19px;
